@@ -262,4 +262,3 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?encryption=none&s
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?encryption=none&security=tls&sni=sub.divib.dynv6.net&type=ws&host=sub.divib.dynv6.net&path=%2F#%7C%20%F0%9F%8D%93%40xixv2ray
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%7C%20%F0%9F%8D%93%40xixv2ray
 vless://9ca79e0a-2c5c-4ac8-90e6-6642e41e6189@199.34.229.63:443?encryption=none&security=tls&sni=uk1.blackismyfavorite.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=httpupgrade&host=uk1.blackismyfavorite.ir&path=%2FXRAYVPNHTTPUPGRADE#%7C%20%F0%9F%8D%93%40xixv2ray
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%7C%20%F0%9F%8D%93%40xixv2ray
